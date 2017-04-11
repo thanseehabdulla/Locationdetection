@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#049fe7</color>
+    <color name="cache_color">#03628e</color>
+    <color name="OverlayWhite">#f1ffffff</color>
+    <color name="White">#ffffffff</color>
+    <color name="greyWhite">#eee</color>
+    <color name="subTextlightGray">#d7d7d7</color>
+    <color name="primaryTextDark">#292929</color>
+    <color name="primary_material_dark_1">#2196f3</color>
+    <color name="primary_material_dark_2">#2196f3</color>
+    <color name="indigo">#0da5e8</color>
+    <color name="pink">#98e9df</color>
+    <color name="grey">#cfd7da</color>
+    <color name="pressed_color">#4d90fe</color>
+    <color name="default_color">#ffffff</color>
+    <color name="crop__button_bar">#f3f3f3</color>
+    <color name="crop__button_text">#666666</color>
+    <color name="crop__selector_pressed">#1a000000</color>
+    <color name="crop__selector_focused">#77000000</color>
+</resources>
